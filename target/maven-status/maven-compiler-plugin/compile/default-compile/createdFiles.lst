@@ -1,0 +1,15 @@
+com\example\futoverseny\service\RaceService.class
+com\example\futoverseny\service\ResultService.class
+com\example\futoverseny\entity\Result.class
+com\example\futoverseny\FutoversenyKezeloApplication.class
+com\example\futoverseny\entity\Runner.class
+com\example\futoverseny\DataInitializer.class
+com\example\futoverseny\controller\RaceController.class
+com\example\futoverseny\service\RunnerService.class
+com\example\futoverseny\repository\RunnerRepository.class
+com\example\futoverseny\controller\RunnerController.class
+com\example\futoverseny\controller\ViewController.class
+com\example\futoverseny\repository\RaceRepository.class
+com\example\futoverseny\controller\ResultController.class
+com\example\futoverseny\repository\ResultRepository.class
+com\example\futoverseny\entity\Race.class
